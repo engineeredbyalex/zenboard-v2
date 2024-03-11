@@ -1,7 +1,7 @@
 // importing styles
 import '@/styles/globals.css'
 // importing auth provider
-import AuthProvider from "./api/auth/providers";
+import AuthProvider from "./providers";
 
 
 
